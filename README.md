@@ -20,8 +20,6 @@ This project presents an interactive Power BI dashboard built using an online re
 - Data cleaning and transformation
 - DAX measure creation using SUMX
 - Interactive dashboards and business storytelling
-- Data visualization best practices
-
-## Dashboard Preview
+- Data visualization 
 
 
