@@ -1,7 +1,5 @@
 # Online-Retail-Sales-Performance
 
-# Online Retail Sales Dashboard (Power BI)
-
 ## Project Overview
 This project presents an interactive Power BI dashboard built using an online retail dataset. The dashboard provides insights into sales performance, customer behavior, and geographical distribution of revenue.
 
